@@ -1,4 +1,4 @@
-👋 Hi, I’m Vijaykrishna Somaraju, a quantum researcher and infrastructure technologist exploring the bridge between human behavior, cybersecurity, and quantum intelligence.
+👋 Hi, I’m Vijaykrishna Somaraju Deep-Tech Founder- Vyapti Resonance | Tech Strategist |Quantum Consultant, a quantum researcher and infrastructure technologist exploring the bridge between human behavior, cybersecurity, and quantum intelligence.
 
 👀 My current focus blends Agile DevOps principles with quantum machine learning, driving projects like our Sentient TrustGraph — a behavioral IAM system that uses real-time interaction heatmaps and post-quantum cryptography to validate user trust states.
 
@@ -6,6 +6,6 @@
 
 💞️  Would be keen to collaborate with innovators working on quantum-secure identity, anomaly detection, and AI-behavioral trust frameworks — especially those exploring Cirq, PennyLane, or Qiskit ecosystems.
 
-📫 Reach me at vijaykrishnasomaraju@hotmail.com
+📫 Reach me at vijay@vyaptiresonance.com/vijaykrishnasomaraju@hotmail.com
  | GitHub: VijaySuperpositionist
 “In process of Building Sentient Systems that Detect Trust, Symmetry, and Anomalies — Across Classical and Quantum Frontiers.”
